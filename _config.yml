@@ -1,7 +1,7 @@
 # Site settings
 title: CHCS Family Handbook
 email: info@chatthillscharter.org
-description: The Chattahoochee Hills Charter School Handbook for Families and Children.
+description: 'The Chattahoochee Hills Charter School Handbook for Families and Children.'
 footer_text: 'Handbook written with <span class="icon-favorite pulse"></span> by the CHCS Board. Inspire children with the natural world.'
 baseurl: "http://handbook.chatthillscharter.org" # Url of your website be sure to edit before uploading
 
