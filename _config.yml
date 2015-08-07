@@ -3,7 +3,7 @@ title: CHCS Family Handbook
 email: info@chatthillscharter.org
 description: Material Jekyll theme with some enhancements and personal customizations
 footer_text: 'Handbook written with <span class="icon-favorite pulse"></span> by the CHCS Board. Inspire children with the natural world.'
-baseurl: "" # Url of your website be sure to edit before uploading
+baseurl: "http://chatthillscharter.github.io/handbook/" # Url of your website be sure to edit before uploading
 
 # Social usernames
 twitter_username: chatthillschsc
