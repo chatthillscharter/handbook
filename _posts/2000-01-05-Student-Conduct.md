@@ -10,6 +10,8 @@ tags: [sample post]
 
 CHCS students will abide by a Code of Conduct based on the philosophy that classroom respect and order are essential for academic progress, that students benefit from the explicit teaching of acceptable behavior, and that having immediate and clear consequences for seemingly minor infractions guarantees that major infractions will not take place.  Parents, a teacher, and the Principal will sign the Family & School Contract, which demonstrates knowledge of the Code of Conduct.  The purpose of this Code is to bring absolute clarity to the expectations and consequences of student behavior so that misunderstanding is never the reason for student misbehavior.
 
+Chattahoochee Hills Charter School abides by the [Fulton County Schools Disciplinary Policies and Procedures](http://www.fultonschools.org/en/news/archives/Documents/FCS-English14-15.pdf)
+
 ## Intention
 
 CHCS is committed to providing an engaging, standards-based education in order to ensure success in life.  Respectful behavior without disruptions is necessary to achieve this goal.  The following beliefs inform our Code of Conduct:
